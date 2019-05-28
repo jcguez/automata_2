@@ -1,0 +1,11 @@
+{
+  "name": "automata_2",
+  "version": "1.0.0",
+  "description": "Realizar un Sistema que acepte una cadena de entrada e imprima en pantalla los tokens correctos que tiene la cadena, enumerarlos y mencionar la cantidad de tokens incorrectos. La cadena de entrada separará con un espacio en blanco cada uno de los tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jcguez",
+  "license": "MIT"
+}
